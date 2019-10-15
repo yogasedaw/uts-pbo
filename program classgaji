@@ -59,8 +59,8 @@ class staff extends pegawai
 	}
 }
 
-$dosen= new dosen("hafiz","19226","akehgfaifv");
-$staff= new staff("hahh","101981","jhjhjhv");
+$dosen= new dosen("Yoga","19226","akehgfaifv");
+$staff= new staff("ery","101981","jhjhjhv");
 
 $hari = $_POST['hari'];
 $sks = $_POST['sks'];
